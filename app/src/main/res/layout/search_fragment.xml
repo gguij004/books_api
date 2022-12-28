@@ -32,7 +32,7 @@
         android:id="@+id/search_book_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/search_book_button_text"
+        android:text="Search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/search_book_print_type" />
 

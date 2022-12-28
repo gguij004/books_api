@@ -1,4 +1,36 @@
+<!--<resources>-->
+<!--    <string name="app_name">BookTest</string>-->
+<!--    <string name="search_book_button_text">Search</string>-->
+<!--    <String-array name="book_print_type">-->
+<!--        <item>all</item>-->
+<!--        <item>books</item>-->
+<!--        <item>magazine</item>-->
+<!--    </String-array>-->
+<!--    <String-array name="book_filter">-->
+<!--        <item>ebooks</item>-->
+<!--        <item>free-ebooks</item>-->
+<!--    </String-array>-->
+
+<!--</resources>-->
 <resources>
     <string name="app_name">BookTest</string>
-    <string name="search_book_button_text">Search</string>
+    <string name="book_search_btn">Search</string>
+    <string-array name="bool_print_type" >
+        <item>
+            all
+        </item> <item>
+            books
+        </item> <item>
+            magazine
+        </item>
+    </string-array>
+    <string-array name="book_filter" >
+        <item>
+            ebooks
+        </item> <item>
+            free_ebooks
+        </item> <item>
+            paid_ebooks
+        </item>
+    </string-array>
 </resources>
